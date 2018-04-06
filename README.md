@@ -4,11 +4,11 @@ Toyapp is a practice app for ruby-on-rails learners at beginning level.
 
 This repository does NOT provide a fully funcional app. It gives essential codes for buidling the app.
 
-What this app can do:
+What this app does:
 ```java
-Creating a disscusion board.
-User can post disscussions on the board, along with ID.
-Once posted, user can modify or delete the disscussion.
+Create a disscusion board.
+Start disscussion posts on the board.
+Allow users to modify or delete disscussion posts.
 ```
 
 Note:
